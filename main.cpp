@@ -1,8 +1,4 @@
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <iomanip>
-#include <algorithm>
+
 #include "Hash.h"
 using namespace std;
 
