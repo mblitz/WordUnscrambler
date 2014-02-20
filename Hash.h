@@ -3,8 +3,10 @@
 
 
 #include <iostream>
-#include <string>
 #include <fstream>
+#include <string>
+#include <iomanip>
+#include <algorithm>
 
 using namespace std;
 const int TABLE_SIZE = 41238;
